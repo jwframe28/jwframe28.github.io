@@ -13,16 +13,21 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Research inquiries
+email: framej@mskcc.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  My research focus is the intersection between the microbiome and clinical outcomes.
+  The Taur Lab investigates how your gut microbes influence your immune system and
+  potential interventions.  Our work-in-progress examines the enteric virome and 
+  the re-activation of eukaryotic viruses during allogeneic hematopoeitic stem-cell
+  transplant.
+  #Write an awesome description for your new site here. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
   #baseurl: "/jwframe28.github.io/" # the subpath of your site, e.g. /blog
 url: "https://jwframe28.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: of_microbes_and_men
+github_username:  jwframe28
 
 # Build settings
 markdown: kramdown

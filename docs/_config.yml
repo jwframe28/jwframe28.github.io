@@ -23,7 +23,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   transplant.
 
 url: "https://jwframe28.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: of_microbes_and_men
+twitter_username: jwframe28
 github_username:  jwframe28
 
 # Build settings

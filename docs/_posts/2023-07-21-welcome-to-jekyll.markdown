@@ -5,9 +5,9 @@ date:   2023-07-21 16:49:19 -0400
 categories: post1 future llm
 ---
 
-Unraveling the Microbiome Mystery: Fact from Fiction
+Microbe Fact from Fiction
 
-Hey there, fellow clinicians and tech enthusiasts! Welcome to my humble blog, where I, John Frame, a lead data scientist in the Taur Lab at Memorial Sloan Kettering, share my thoughts and insights on the intriguing world of the gut microbiome. Having left the healthcare insurance industry three years ago to embark on this exciting journey, I now feel equipped to delve into the potential upsides and barriers of applying the microbiome in a clinical setting. One of my strengths lies in distinguishing fact from fiction, a skill that is much needed in our pursuit of progress.
+Welcome to my blog, where I, John Frame, a lead researcher in the Taur Lab at Memorial Sloan Kettering, share my thoughts and insights on the intriguing world of the gut microbiome. Having left the (tech) healthcare insurance industry three years ago to embark on this exciting journey, I now feel equipped to delve into the potential upsides and barriers of applying the microbiome in a clinical setting. One of my strengths lies in distinguishing fact from fiction, a skill that is much needed in our pursuit of progress.
 
 So, who is this blog for? Well, if you're a clinician, tech-savvy individual, or anyone with an interest in the microbiome, you're in the right place. I've noticed that amidst the plethora of information out there, we need stronger adversarial relationships for funding mechanisms to ensure we explore the microbiome in the right direction. Don't worry if you're not well-versed in the clinical microbiome; I'll soon provide a primer for those new to the field.
 

@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I am John Frame, an engineering research manager with a passion for the microbiome and virome. My research focuses on the effects of the microbiome in a clinical setting and potential interventions. My talent is separating fact from fiction in modern microbiome research and aligning other technical researchers with clinical professionals. We are currently working on several manuscripts where we apply multi-omic approaches to some of the largest sample-banks in America.  Beyond my research, I am intrigued by the possibilities of medical wearables (or digestibles!) and their impact on understanding the intricacies of the microbiome.
